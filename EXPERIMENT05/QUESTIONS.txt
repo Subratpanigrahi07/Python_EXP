@@ -1,0 +1,4 @@
+1- generate fibonaci series between 0 to 1000. Then find the sum of even valued terms (Sheet 14)
+2- write a program that loops over a sequence of elements of a list, tuple, dictionary and set. (Sheet 14)
+3- WAP that find the following for given values from the list. (Sheet 15)
+4- WAP to create an empty list and input a group of numbers into the list, remove the duplicate elements from it and then sort them in ascending order and then display. (Sheet 15)
