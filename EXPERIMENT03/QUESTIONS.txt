@@ -1,0 +1,13 @@
+1- Write a program to test a string is palindrome or not.
+2- Find the greatest among three unequal numbers.
+3- Write a program to input 3 coefficient values and find the real roots.
+4- Write a program to input an alphabet and check whether it is vowel or consonant.
+5- Accept a digit within 0 to 6 and display the week day such as 0 for Sunday, 1 for monday etc..
+6- Write a program to input two strings and check whether they are equal or not.
+7- Write a program to input marks for 5 subjects, assume maximum marks for each subject is 50. Find percentage and then display grade as below:
+Percentage >= 90 and <= 100 grade is O.
+Percentage >= 80 and <= 90 grade is E.
+Percentage >= 70 and <= 80 grade is A.
+Percentage >= 60 and <= 70 grade is B.
+Percentage >= 50 and <= 60 grade is C.
+Percentage >= 0 and <= 50 grade is F.
