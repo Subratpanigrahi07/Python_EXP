@@ -1,0 +1,5 @@
+1.WAP for ndarray Object, Indexing, and Slicing. 
+2.WAP for Data Types and Structures in NumPy. 
+3.WAP for NumPy Array Properties and Functions.
+4.WAP for Statistical Operations and Broadcasting on Arrays. 
+5.WAP for Saving and Loading Arrays. 

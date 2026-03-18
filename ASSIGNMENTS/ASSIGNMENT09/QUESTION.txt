@@ -1,0 +1,4 @@
+1.WAP to create and work with a Pandas Series.
+2.WAP to create and manipulate a data frame.
+3.WAP to to read CSV and JSON files.
+4.WAP to calculate the correlation between columns in a data frame.

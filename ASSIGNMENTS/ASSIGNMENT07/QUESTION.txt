@@ -1,0 +1,6 @@
+1.WAP to triple all numbers in a given list of integers. Use map() 
+2.WAP to add three given list using python map and lambda. 
+3.WAP to create a list containing the power of said number in bases raised to the corresponding number in the index using python map.
+4.WAP to convert all the characters into uppercase and lowercase and eliminate duplicate letters from a given sequence. Use map() function
+5.WAP to convert a given list of integer and a tuple of integer in a list of string using map().
+6.WAP to find the ratio of positive numbers, negative numbers and zeroes in an array of integers using map().

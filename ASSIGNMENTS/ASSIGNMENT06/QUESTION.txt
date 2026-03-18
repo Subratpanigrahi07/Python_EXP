@@ -1,0 +1,6 @@
+1.WAP to print a matrix containing group of similar elements by giving the input randomly in another matrix.
+2.WAP to print a matrix along with a sumation of row elements and column elements after entering a 3*3 matrix.
+3.WAP to print the transpose of a matrix of n*n order. 
+4.WAP to check if a value is present in the list or not, using lambda function. 
+5.WAP to print Fibonacci series up to n terms using lambda function. 
+6.WAP to print the intersection of 2 arrays using lambda function. 

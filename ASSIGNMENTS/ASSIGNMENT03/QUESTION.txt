@@ -1,0 +1,6 @@
+1. WAP to print twin prime numbers between 1 to N. 
+2. WAP to find the factorial of a number. 
+3. WAP to check the leap year. 
+4. WAP to check whether the string is symmetrical or palindrome. 
+5. WAP to print even length words in a string. 
+6. WAP to remove all duplicates from a given string. 

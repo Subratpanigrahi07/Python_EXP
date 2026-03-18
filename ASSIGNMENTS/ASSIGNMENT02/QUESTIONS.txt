@@ -1,0 +1,6 @@
+1. WAP to enter a percentage and display the gradation system. 
+2. WAP to enter a 5 digit number and print the digits present at odd locations. 
+3. WAP to enter a number and check wheather it is a palindrome number or not. 
+4. WAP to enter a number and check whether the number is perfect number or not. 
+5. WAP to enter a string and print it in reverse also print the no of vowels and consonant in it.
+6. WAP to enter a 3 digit number and print all the prime factors of the number. 

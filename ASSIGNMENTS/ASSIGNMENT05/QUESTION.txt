@@ -1,0 +1,6 @@
+1.WAP to input two dictionaries and print the values by merging the two dictionaries. 
+2.WAP to create a dictionary and print the key which has the maximum unique value. 
+3.WAP to enter a dictionary and remove the duplicate value inside the dictionary. 
+4.WAP to enter a set and copy the content of the set into a new set one element at a time.
+5.WAP to enter two sets and perform alll the set operations on it. 
+6.WAP to enter two different sets with string elements combine both the sets remove any duplicates are present, print the new set.
