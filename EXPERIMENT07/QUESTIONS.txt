@@ -1,0 +1,9 @@
+1. WAP to create a list containing natural numbers from m to n where m and n given input (create using for loop). Find the sum, average, largest, smallest in the list. Create another list which contains all the numbers of list except no disble by 3.
+2. WAP to find the square of a no
+3. WAP to check whether a no is even or odd
+4. WAP to find the sum of two no's
+5. WAP to find the factorial of a no
+6. WAP to check whether a no is prime
+7. WAP to reverse a string
+8. WAP to count the vowels
+9. WAP to find the largest of the nos
