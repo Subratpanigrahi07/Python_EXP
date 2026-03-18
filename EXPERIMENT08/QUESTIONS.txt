@@ -1,0 +1,6 @@
+1- WAP to create a list containing natural numbers from m to n where m and n are given input. Create using for loop. Find the sum, average, largest and smallest in the list. Create another list which contains all the members of 1st list expect numbers divisible by 2.
+2- Question: WAP to generate all prime numbers within a given range from m to n.
+3- Question: WAP to create a string which contains a paragraph. Now Find: 
+i) Count how many words it contains 
+ii) How many palindrome exist 
+iii) print each word in reverse order.
